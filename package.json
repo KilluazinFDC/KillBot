@@ -1,0 +1,25 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "github:discordjs/voice",
+    "axios": "^1.6.2",
+    "dbd-soft-ui": "^1.7.18-beta.1",
+    "discord-dashboard": "^2.3.62",
+    "discord.js": "^14.11.0",
+    "figlet": "^1.7.0",
+    "fs": "^0.0.1-security",
+    "glob": "^7.2.0",
+    "moment": "^2.29.4",
+    "util": "^0.12.4",
+    "weather-js": "^2.0.0"
+  }
+}

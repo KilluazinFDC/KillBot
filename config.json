@@ -1,0 +1,17 @@
+{
+    "token": "MTE4MDg5MDQzMzk5MjI3Mzk1MA.GVAhyd.Ek82Ht-QHH_oDEbJzHZsyFEEmFvdLfWWdKYNjQ",
+    "discord": {
+        "token": "MTE4MDg5MDQzMzk5MjI3Mzk1MA.GVAhyd.Ek82Ht-QHH_oDEbJzHZsyFEEmFvdLfWWdKYNjQ",
+        "client": {
+            "id": "1180890433992273950",
+            "secret": "JstAUvJWzV_W6EiTkOLUEs-O8VfzH3mO"
+        }
+    },
+    "dbd": {
+        "port": 80,
+        "domain": "https://39df-179-208-77-254.ngrok-free.app",
+        "redirectUri": "/discord/callback",
+        "license": "f1d3d9b5-aab2-4797-a451-115e58cf84cb",
+        "ownerIDs": ["574603126300999691", "764176094249091093"]
+    }
+}
